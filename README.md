@@ -4,6 +4,7 @@
 </div>
 
 <div>
+ 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas 
 
 - 📚 Estudando ReactJS, NextJS e Typescript
