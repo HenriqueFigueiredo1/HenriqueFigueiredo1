@@ -1,10 +1,18 @@
 ## Olá, eu sou o Henrique Figueiredo!
  <div>
-  <a href="https://github.com/HenriqueFigueiredo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueFigueiredo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFigueiredo1&layout=compact&langs_count=7&theme=dracula"/>
+<h3>Estudando para evoluir sempre 🚀 </h3>
 </div>
-<div style="display: inline_block"><br>
+
+<div>
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas 
+
+- 📚 Estudando ReactJS, NextJS e Typescript
+
+- 📫 Como **entrar** em contato comigo **henriquerfigueiredo@outlook.com**
+
+- 🛠 Penseapp Software 
+ </div>
+<img height="50" width="50" src="https://scontent.fcpq7-1.fna.fbcdn.net/v/t1.6435-9/132202546_2789936357943652_2905455704339986662_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=5K4JlVr3DVUAX85rnbq&_nc_ht=scontent.fcpq7-1.fna&oh=adfdb3e5ca074c71688d34ee0004de70&oe=614065B6">
   <img align="center" alt="Henrique-Ts" height="30" width="100" src="https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="Henrique-React" height="30" width="100" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
   <img align="center" alt="Henrique-HTML" height="30" width="100" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
