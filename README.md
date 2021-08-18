@@ -1,15 +1,15 @@
 ## Olá, eu sou o Henrique Figueiredo!
  <div>
-<h3>Estudando para evoluir sempre 🚀 </h3>
+<h3>Learn to fly 🚀 </h3>
 </div>
 
 <div>
  
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas 
+- 🎓 Analysis and systems development
 
-- 📚 Estudando ReactJS, NextJS e Typescript
+- 📚 Studying ReactJS, NextJS e Typescript
 
-- 📫 Como **entrar** em contato comigo **henriquerfigueiredo@outlook.com**
+- 📫 Contact **henriquerfigueiredo@outlook.com**
 
 - 🛠 Penseapp Software 
  </div>
