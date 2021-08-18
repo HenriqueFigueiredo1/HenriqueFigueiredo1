@@ -1,4 +1,4 @@
-## Olá, eu sou o Henrique Figueiredo!
+## Hello, i'm Henrique Figueiredo!
  <div>
 <h3>Learn to fly 🚀 </h3>
 </div>
